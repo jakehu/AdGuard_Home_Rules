@@ -1,0 +1,4 @@
+! 自用AdGuardHome广告过滤规则
+
+! 自用域名
+@@||jakehu.me^
